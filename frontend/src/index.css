@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional Custom Classes */
+body {
+  @apply bg-gradient-to-br from-blue-50 to-purple-100 font-sans;
+}
